@@ -1,0 +1,6 @@
+1. Go to Microsoft SQL Server Management Studio, create new database RFIDver0 and restore the database
+2. Open port server (for TCP/IP Form)
+3. Upload code to nodeMCU ver 0.9
+4. go to VSC# download addon SimpleTCP (for TCP/IP Form)
+5. Run the form
+6. Take the card.
