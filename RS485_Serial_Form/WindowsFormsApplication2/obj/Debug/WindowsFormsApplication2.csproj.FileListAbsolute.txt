@@ -7,3 +7,6 @@ c:\users\dung phan\documents\visual studio 2015\Projects\WindowsFormsApplication
 c:\users\dung phan\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
 c:\users\dung phan\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
 c:\users\dung phan\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Dung Phan\Documents\GitHub\RFID\RS485_Serial_Form\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Dung Phan\Documents\GitHub\RFID\RS485_Serial_Form\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Dung Phan\Documents\GitHub\RFID\RS485_Serial_Form\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
